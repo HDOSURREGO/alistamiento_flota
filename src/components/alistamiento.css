@@ -1,0 +1,68 @@
+.grupo_alistamiento {
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	border: green;
+	border-radius: 10px;
+	background-color: gold;
+	font-size: medium;
+}
+
+.item_alistamiento {
+	margin: 5px;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: rgb(255, 160, 144);
+	font-size: small;
+}
+
+.input_numeroDeBus {
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 8px;
+	background-color: white;
+	width: 10%;
+}
+
+.comentario_alistamiento {
+	width: 75%;
+	text-align: left;
+	align-content: center;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 8px;
+	background-color: white;
+}
+
+.btn {
+	margin: 5px;
+	padding: 5px;
+	border-color: white;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.check_btn {
+	border: 0px;
+	background-color: rgb(255, 160, 144);
+	font-size: large;
+}
+
+table {
+	width: 100%;
+	align-content: center;
+	text-align: center;
+}
+
+td {
+	margin: 0px;
+	padding: 0px;
+	align-content: center;
+	text-align: center;
+}
+
+.header_tablaDeResultados {
+	display: inline-table;
+	width: 100%;
+}
